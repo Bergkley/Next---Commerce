@@ -17,7 +17,7 @@ export default function Product({ product }: ProductProps) {
         <div className="flex justify-between font-bold my-3">
           <p className="w-40 truncate">{product.name}</p>
           <p className="text-md text-teal-300">
-            formatPrice{formatPrice(product.price)}
+            {formatPrice(product.price)}
           </p>
         </div>
         <AddCart product={product} />
