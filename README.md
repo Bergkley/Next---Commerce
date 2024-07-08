@@ -70,7 +70,7 @@ Vercel Postgres é um serviço de banco de dados gerenciado oferecido pela Verce
 
 
 
-# BACK-END :
+# Tecnologia utilizada :
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;
 ![Prisma](https://img.shields.io/badge/Prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white)&nbsp;
